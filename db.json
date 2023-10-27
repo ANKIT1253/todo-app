@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "id": 3
+    },
+    {
+      "name": "vikas",
+      "email": "vikas@gmail.com",
+      "password": "vikas",
+      "id": 4
+    },
+    {
+      "name": "sagar",
+      "email": "sagar@gmail.com",
+      "password": "sagar",
+      "id": 8
+    },
+    {
+      "name": "ankit",
+      "email": "ankit@gmail.com",
+      "password": "ankit",
+      "id": 9
+    }
+  ],
+  "tasks": [
+    {
+      "title": "study",
+      "userid": 9,
+      "modifiedon": "Tue Sep 26 2023 21:47:37 GMT+0530 (India Standard Time)",
+      "description": "study react ",
+      "duedate": "2023-10-01T13:50",
+      "id": 5
+    },
+    {
+      "title": "meeting ",
+      "description": "meeting with client ",
+      "duedate": "2023-10-21T01:30",
+      "userid": 8,
+      "modifiedon": "Fri Oct 06 2023 09:26:21 GMT+0530 (India Standard Time)",
+      "id": 6
+    },
+    {
+      "title": "shoping",
+      "description": "shoping in mall ",
+      "duedate": "2023-10-29T01:30",
+      "userid": 8,
+      "modifiedon": "Fri Oct 06 2023 09:26:42 GMT+0530 (India Standard Time)",
+      "id": 7
+    },
+    {
+      "title": "tution ",
+      "description": "tmaths",
+      "duedate": "2023-10-29T01:26",
+      "userid": 8,
+      "modifiedon": "Fri Oct 06 2023 09:26:57 GMT+0530 (India Standard Time)",
+      "id": 8
+    },
+    {
+      "title": "appoitnment",
+      "description": "appointment with doctor",
+      "duedate": "2023-10-13T00:51",
+      "userid": 8,
+      "modifiedon": "Fri Oct 06 2023 09:51:54 GMT+0530 (India Standard Time)",
+      "id": 9
+    },
+    {
+      "title": "medical",
+      "description": "checkup",
+      "duedate": "2023-10-29T00:56",
+      "userid": 8,
+      "modifiedon": "Fri Oct 06 2023 09:52:10 GMT+0530 (India Standard Time)",
+      "id": 10
+    },
+    {
+      "title": "Meeting",
+      "description": "client ",
+      "duedate": "2023-10-20T01:57",
+      "userid": 8,
+      "modifiedon": "Fri Oct 06 2023 09:53:58 GMT+0530 (India Standard Time)",
+      "id": 11
+    },
+    {
+      "title": "test",
+      "description": "monday test",
+      "duedate": "2023-10-21T02:08",
+      "userid": 8,
+      "modifiedon": "Mon Oct 09 2023 10:03:45 GMT+0530 (India Standard Time)",
+      "id": 12
+    },
+    {
+      "title": "meeting ",
+      "description": "client meeting",
+      "duedate": "2023-10-28T12:45",
+      "userid": 3,
+      "modifiedon": "Sun Oct 15 2023 21:42:22 GMT+0530 (India Standard Time)",
+      "id": 13
+    },
+    {
+      "title": "test",
+      "description": "test class",
+      "duedate": "2023-10-24T21:42",
+      "userid": 3,
+      "modifiedon": "Sun Oct 15 2023 21:42:35 GMT+0530 (India Standard Time)",
+      "id": 14
+    },
+    {
+      "title": "gym ",
+      "description": "gym session",
+      "duedate": "2023-10-29T13:43",
+      "userid": 3,
+      "modifiedon": "Sun Oct 15 2023 21:43:16 GMT+0530 (India Standard Time)",
+      "id": 15
+    }
+  ]
+}
